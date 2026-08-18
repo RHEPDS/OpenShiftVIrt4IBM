@@ -1,60 +1,6 @@
-# Virtualization Migration Assessment (VMA) Workshop
-
-## Overview
-
-This workshop enables technical customer-facing teams to confidently position and secure customer commitments for a **Virtualization Migration Assessment (VMA)**.
-
-Due to current market dynamics around VMware ownership changes, organizations are actively evaluating migration options. The VMA workshop helps teams guide customers from VMware-based infrastructure toward an OpenShift Virtualization approach.
-
-## Business Problem Statement
-
-There is a strong market opportunity to support customers transitioning from VMware-based infrastructure to OpenShift-based virtualization.
-
-A key challenge is that many technical sellers currently lack the confidence and practical framework to:
-
-- Position the VMA effectively
-- Address customer technical and business concerns
-- Secure commitment for the first migration step
-
-## Target Audience
-
-- Technical Sales / Presales
-- Business Consultants
-- Delivery Consultants
-
-## Prerequisites
-
-- OpenShift knowledge (DO180 level)
-- Basic understanding of OpenShift Virtualization
-- VMware knowledge
-
-## Workshop Goal
-
-Build confidence and practical capability to identify, position, and execute a customer-facing Virtualization Migration Assessment.
-
-Participants learn how to:
-
-- Understand the existing customer environment
-- Assess migration risks
-- Run an assessment from the customer side as a partner
-
-## Expected Outcomes
-
-By the end of the workshop, participants can:
-
-- Identify and qualify opportunities for a VMA
-- Position the business and technical value of a VMA
-- Handle technical and business competitive situations
-- Decide when and where to involve ecosystem partners
-- Perform upfront technical discovery and risk assessment
-- Scope a proof of concept for OpenShift Virtualization
-- Communicate technical value during a virtualization roadshow
+# OpenShift Virtualisation 4 IBM
 
 ## Workshop Agenda
-
-Link to your individual agenda:
-
-https://rhepds.github.io/vILT-VMA/#/attendee?d=z1.eJyllt1v2jAUxf-VKz-HzeGbvPG1Ca2MqUGp1Kma3OQ2eAQ7sh0qVPV_nxy08jFMgPGQB2Ll_HTuOTd5I7_WJPA9olFrLoUmwc83YrjJkATkAbNYrhCYSGAijJJJERt7CgDAb8GKC-KRpFDM_jvlojCoSeC3PKINU2YSzkhA6rTertF2zW_PaSegNKD0E6X0kXgERXLqjN_6OPPu7XBClqGGqbRiJdNXNIaLFMwCYY7xQvCYZfDAxc10e8pOugY9STfLUYQL_mIg4srAbI1qzfHVWtV0wjTPwTQqreq6rDqCqUFopGIpWpoGddE0qJOme4E13aB5Ic13NK9SLe3sbgdqVgL1XPYM7sf9b7D93ZSU3gV29FxJmc4jqMF8gTBQPEkRjIQji240pVedGZ_uV_AAi6dbJfjCYiPV5mZ7DjWcHI7hRKMJoFhzJcUKhdEgxc6eWnSjN4d6TiZHgve3nx2X3Th3_cH_OFQZX993TaovWLbRtj0MoukrUwjjnWGnSNoOXzoXrOSOLZuD5J7rJbAtji53cq7kb4wNoDZ8VUJcydO9gKfn4imLfc0ojh_mFKxctLv6jDhLhdSGx9dE9FjFSeKI6FQmqATXW4ZBViD8UPx0HM4yVASzc6a6_WTNRIwJDLNCG1QwZYKlaFNZi64Dqe5r50xfhwsp9d9PA8XThYGweNax4rkrku6EVJe1c6asw6wkuVLSrw6l7x-M4ckjuUKNwqCa8xU-SmHlx4WSOX4eoMrKJfVxJrTCd-wZs39eIpTuHxyxTd0-kATk1L3G0T295PmIbeyX5AvLNHrbq1EFPr3_ATzn900
 
 ### Day 1
 
@@ -65,35 +11,7 @@ https://rhepds.github.io/vILT-VMA/#/attendee?d=z1.eJyllt1v2jAUxf-VKz-HzeGbvPG1Ca
 | OpenShift Virt Overview | 45 min |
 | OpenShift Virt - Storage | 30 min |
 | OpenShift Virt - Networking | 30 min |
-| Break | 15 min |
 | MTV - The Bridge to OpenShift Virt | 30 min |
-| Migration Factory | 15 min |
-| VDI Environments on OpenShift-V | 30 min |
-| Introduction to the Lab | 15 min |
-| **Session Subtotal** | **255 min** |
 | Lab Time 1 | 120 min |
 
-#### Lab Modules
 
-- OpenShift Virtualization Basics
-- Network Management
-- Storage Management
-- Migration from VMware to OpenShift
-
-### Day 2
-
-| Topic | Duration |
-| --- | --- |
-| Analysing a VMware Environment | 60 min |
-| Risk Analysis and Project Estimation | 60 min |
-| Break | 15 min |
-| OpenShift Migration Diagnostic | 35 min |
-| Modernisation Blueprint | 35 min |
-| Advanced Cluster Management-V | 30 min |
-| Choosing the Right Subscription | 15 min |
-| Wrap-Up and Closing | 15 min |
-| **Total** | **265 min** |
-
-## Notes
-
-This README is based on the source workshop brief document and is intended for internal enablement and planning.
