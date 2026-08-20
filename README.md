@@ -14,4 +14,6 @@
 | MTV - The Bridge to OpenShift Virt | 30 min |
 | Lab Time 1 | 120 min |
 
+LAB URL: https://catalog.demo.redhat.com/workshop/kpppff
 
+Password: OpenShift
