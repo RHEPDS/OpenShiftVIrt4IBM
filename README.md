@@ -7,11 +7,11 @@
 | Topic | Duration |
 | --- | --- |
 | Welcome and Introductions | 15 min |
-| Sales Motion and Getting the Technical Win | 15 min |
-| OpenShift Virt Overview | 45 min |
-| OpenShift Virt - Storage | 30 min |
-| OpenShift Virt - Networking | 30 min |
-| MTV - The Bridge to OpenShift Virt | 30 min |
+| Sales Motion and Getting the Technical Win | 10 min |
+| OpenShift Virt Overview | 40 min |
+| OpenShift Virt - Storage | 40 min |
+| OpenShift Virt - Networking | 40 min |
+| MTV - The Bridge to OpenShift Virt | 40 min |
 | Lab Time 1 | 120 min |
 
 LAB URL: https://catalog.demo.redhat.com/workshop/kpppff
